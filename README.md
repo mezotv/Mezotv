@@ -47,4 +47,3 @@
 
 
  <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=Mezotv&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
-<!--- Made by Walkx and Mezo --->
