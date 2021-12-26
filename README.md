@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=darkgreen" />
-  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=CSS3&logoColor=darkgreen" />
-  <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-FFD43B?style=for-the-badge&logo=JAVASCRIPT&logoColor=darkgreen" />
+  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=lightgrey" />
+  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=CSS3&logoColor=lightgrey" />
+  <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-FFD43B?style=for-the-badge&logo=JAVASCRIPT&logoColor=lightgrey" />
 </p>
 
 <div align="center">
