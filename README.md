@@ -23,9 +23,9 @@
     <summary>🌟 frameworks</summary>
     <br>
       <p align="center">
-        <img alt="NODE.JS" title="NODE.JS" src="https://img.shields.io/badge/NODE.JS-FFD43B?style=for-the-badge&logo=NODE-DOT-JS&logoColor=darkgreen" />
-        <img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM-FFD43B?style=for-the-badge&logo=NPM&logoColor=darkgreen" />
-        <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=darkgreen" />
+        <img alt="NODE.JS" title="NODE.JS" src="https://img.shields.io/badge/NODE.JS-FFD43B?style=for-the-badge&logo=NODE-DOT-JS&logoColor=lightgrey" />
+        <img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM-FFD43B?style=for-the-badge&logo=NPM&logoColor=lightgrey" />
+        <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=lightgrey" />
     </p>
   </details>
   </h4>
