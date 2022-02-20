@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mezotv/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Welcome+to+my+profile.;Hey+I'm+Mezo!;I'm+16+years+old!;And+I+live+in+Germany!;Have+a+great+day!"></a>
+  <a href="https://github.com/Mezotv/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Welcome+to+my+profile.;Hey+I'm+Mezo!;I'm+17+years+old!;And+I+live+in+Germany!;Have+a+great+day!"></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Mezotv&style=flat-square&color=fe8019&label=Views"
 </p>
