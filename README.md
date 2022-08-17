@@ -1,49 +1,39 @@
-<p align="center">
-  <a href="https://github.com/Mezotv/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Welcome+to+my+profile.;Hey+I'm+Mezo!;I'm+17+years+old!;And+I+live+in+Germany!;Have+a+great+day!"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Mezotv&style=flat-square&color=fe8019&label=Views"
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik
+===============================================================================================================================
 
-<p align="center">
-  <a href="https://github.com/Mezotv">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Mezotv?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Mezotv/">
-    <img alt="views" title="GitHub stars" src="https://img.shields.io/github/stars/Mezotv?color=fabd2f&labelColor=fe8019&style=for-the-badge&logo=github&label=Stars"/></a>
-</p>
-
-<p align="center">
-  <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=lightgrey" />
-  <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=CSS3&logoColor=lightgrey" />
-  <img alt="JAVASCRIPT" title="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-FFD43B?style=for-the-badge&logo=JAVASCRIPT&logoColor=lightgrey" />
-</p>
-
-<div align="center">
-  <h4>
-  <details>
-    <summary>🌟 frameworks</summary>
-    <br>
-      <p align="center">
-        <img alt="NODE.JS" title="NODE.JS" src="https://img.shields.io/badge/NODE.JS-FFD43B?style=for-the-badge&logo=NODE-DOT-JS&logoColor=lightgrey" />
-        <img alt="NPM" title="NPM" src="https://img.shields.io/badge/NPM-FFD43B?style=for-the-badge&logo=NPM&logoColor=lightgrey" />
-        <img alt="GIT" title="GIT" src="https://img.shields.io/badge/GIT-FFD43B?style=for-the-badge&logo=GIT&logoColor=lightgrey" />
-    </p>
-  </details>
-  </h4>
-</div>
-
-<div align="center">
-  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/347077478726238228.png">
-</div>
-
-<br>
-
-<h2 align="center">
-      <img alt="stats" title="STATS" src="https://github-readme-stats.vercel.app/api?username=Mezotv&show_icons=tru&theme=gruvbox&hide_border=true">
-      <br/><br/>
-</h2>
-
-<br>
-<br>
-
-
- <img alt="stats" title="STATS" src="https://activity-graph.herokuapp.com/graph?username=Mezotv&bg_color=282828&color=b4993e&line=9cc180&point=4e472c&hide_border=true">
+*   🌍  I'm based in Germany
+*   ✉️  You can contact me at [dominik@koch-bautechnik.de](mailto:dominik@koch-bautechnik.de)
+*   🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.com)
+*   🧠  I'm learning HTML, CSS and REACT
+*   🤝  I'm open to collaborating on Discord Bots<a href="https://www.twitter.com/mezodev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/mezodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                                <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+                                <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/347077478726238228" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/dominikkoch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/mezodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/mezotv"><img src="https://github-readme-stats.vercel.app/api?username=mezotv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mezotv's GitHub stats" /></a><a
+                      href="http://www.github.com/mezotv"><img src="https://activity-graph.herokuapp.com/graph?username=mezotv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
