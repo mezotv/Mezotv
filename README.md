@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik
 ===============================================================================================================================
 
+![](https://komarev.com/ghpvc/?username=mezotv)
+
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dominik@koch-bautechnik.de](mailto:dominik@koch-bautechnik.de)
 * 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.com)
@@ -11,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/twitter/follow/mezodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://komarev.com/ghpvc/?username=mezotv)
+
 ### Skills
 
 <p align="left">
