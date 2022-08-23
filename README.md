@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=mezotv)
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [dominik@koch-bautechnik.de](mailto:dominik@koch-bautechnik.de)
+* ✉️  You can contact me at [dominik@wouldyoubot.com](mailto:dominik@wouldyoubot.com)
 * 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.com)
 * 🧠  I'm learning HTML, CSS and REACT
 * 🤝  I'm open to collaborating on Discord Bots
