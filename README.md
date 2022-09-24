@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning HTML, CSS and REACT
 * 🤝  I'm open to collaborating on Discord Bots
 
-<a href="https://www.twitter.com/mezodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mezodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/devMezo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/devMezo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
