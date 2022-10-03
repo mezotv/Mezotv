@@ -35,12 +35,6 @@ src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-ba
 
 ### Badges
 
-<b>My Coding Stats</b>
-
-<a href="http://www.github.com/mezotv"><img src="https://github-readme-stats.vercel.app/api?username=mezotv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)" alt="mezotv's GitHub stats" /></a>
-
-<b>What im doing right now</b>
-
-![DiscordPresence](https://lanyard.cnrad.dev/api/347077478726238228)
+[![@dominik's Holopin board](https://holopin.io/api/user/board?user=dominik)](https://holopin.io/@dominik)
 
 
