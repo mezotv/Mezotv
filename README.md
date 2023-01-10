@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dominik@wouldyoubot.com](mailto:dominik@wouldyoubot.com)
 * 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.com)
-* 🧠  I'm learning HTML, CSS and REACT
+* 🧠  I'm learning HTML, CSS and JavaScript
 * 🤝  I'm open to collaborating on Discord Bots
 
 <a href="https://www.twitter.com/devMezo" target="_blank" rel="noreferrer"><img
