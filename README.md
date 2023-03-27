@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik
 ===============================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=mezotv)
+![](https://komarev.com/ghpvc/?username=mezotv) [![wakatime](https://wakatime.com/badge/user/a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b.svg)](https://wakatime.com/@a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b)
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dominik@wouldyoubot.com](mailto:dominik@wouldyoubot.com)
