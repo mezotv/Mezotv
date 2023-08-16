@@ -21,8 +21,10 @@ src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-ba
 
 <p align="left"> <a href="https://discord.com/users/347077478726238228" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dominikkoch" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
 
-### Holopin Board
-
-[![@dominik's Holopin board](https://holopin.io/api/user/board?user=dominik)](https://holopin.io/@dominik)
 
 
+<p align="left">
+   <a href="https://wouldyoubot.gg" target="_blank">
+      <img src="https://imgur.com/oX0hUal.png" />
+   </a>
+</p>
