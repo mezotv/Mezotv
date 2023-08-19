@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-ba
 
 
 <p align="left">
-   <a href="https://wouldyoubot.gg" target="_blank">
+   <a href="https://wouldyoubot.gg/?utm_source=github&utm_campaign=dominik-readme&utm_id=dominik-readme)https://wouldyoubot.gg/?utm_source=github&utm_campaign=dominik-readme&utm_id=dominik-readme" target="_blank">
       <img src="https://imgur.com/oX0hUal.png" />
    </a>
 </p>
