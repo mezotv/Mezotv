@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dominik
+===============================================================================================================================
 
-<!--
-**mezotv/mezotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=mezotv) [![wakatime](https://wakatime.com/badge/user/a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b.svg)](https://wakatime.com/@a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b)
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Germany
+* ✉️  You can contact me at [dominik@wouldyoubot.com](mailto:dominik@wouldyoubot.com)
+* 🚀  I'm currently working on [Would you Discord Bot](http://wouldyoubot.gg)
+* 🤝  I'm open to collaborating on Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mezotv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,mongodb,nginx,ps,xd)
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/347077478726238228" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/mezotv" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a></p>
+
+
+
+<p align="left">
+   <a href="https://wouldyoubot.gg/?utm_source=github&utm_campaign=dominik-readme&utm_id=dominik-readme)https://wouldyoubot.gg/?utm_source=github&utm_campaign=dominik-readme&utm_id=dominik-readme" target="_blank">
+      <img src="https://imgur.com/oX0hUal.png" />
+   </a>
+</p>
